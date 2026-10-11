@@ -1,0 +1,21 @@
+====== Comment Télécharger luanti ======
+
+Bonjour, voici comment télécharger Luanti !
+
+Quand vous arrivez sur la page d’accueil, cliquez sur le bouton vert Télécharger. {{:images:telecharger.png|Bouton Télécharger}}
+
+Re-cliquez sur le bouton vert de téléchargement. {{:images:telecharger2.png|Page Téléchargement}}
+
+Un fichier .exe sera téléchargé sur votre ordinateur. Il peut être trouvé dans la section téléchargements de votre navigateur web ou dans le dossier Téléchargements de votre explorateur de fichiers. {{:images:luantiExe.png|Exécutable téléchargé}}
+
+Cliquez sur l’exécutable et, après quelques secondes, une fenêtre du jeu Luanti devrait apparaître. Cliquez sur Install a game. {{:images:luanti.png|Install a game}}
+
+La fenêtre changera pour demander quel jeu vous voulez télécharger. Cliquez sur Minetest Game. {{:images:jeu.png|Fenêtre games}}
+
+Cliquez sur le bouton Install en haut à droite. {{:images:minetest.png|Informations Minetest}}
+
+Après avoir cliqué sur Back deux fois, puis sur le bouton Start Game, vous serez sur ce menu. Choisissez un serveur, entrez un nom et cliquez sur Register. À ce moment, nous pouvons voir l’adresse IP du serveur que nous essayons de rejoindre. Celle-ci est 64.135.243.28. C’est une adresse IPv4 statique de classe A et c’est une adresse IP publique. {{:images:joinGame.png|Menu Join Game}}
+
+Écrivez un mot de passe et cliquez sur Register. Un utilisateur sera créé dans la base de données du serveur avec vos informations. {{:images:register.png|Menu Register}}
+
+Voici un diagramme de réseau expliquant comment la connexion se fait entre le serveur de Luanti et votre ordinateur. Votre ordinateur envoie à votre routeur une demande disant : Je cherche le serveur avec l’adresse 64.135.243.28 et je veux lui demander sur le port 30000, s’il a l’utilisateur TungTung avec le mot de passe %%**%%%%**%%%%**%%. Le serveur reçoit cette question et répond : Oui, j’ai cet utilisateur dans ma base de données. Votre ordinateur répond : Parfait, je veux me connecter. Ils commencent à discuter de la façon dont le monde Luanti est rempli, de la position de votre joueur et des blocs avec lesquels vous interagissez. {{:images:diagramme.png|Diagramme de réseau}}
